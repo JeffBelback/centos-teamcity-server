@@ -1,4 +1,4 @@
-FROM JeffBelback/centos-oracle-jre8
+FROM jeffbelback/centos-oracle-jre8
 
 MAINTAINER Jeff Belback <mail@jeffbelback.me>
 
